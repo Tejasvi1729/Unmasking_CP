@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "utility": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "stack": "cpp",
+        "charconv": "cpp",
+        "queue": "cpp",
+        "xtree": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "compare": "cpp",
+        "xstddef": "cpp",
+        "map": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "xiosbase": "cpp",
+        "iterator": "cpp",
+        "ostream": "cpp",
+        "type_traits": "cpp"
+    }
+}
