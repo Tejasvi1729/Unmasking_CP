@@ -49,9 +49,9 @@ ll binary_exponentiation_iterative(ll a,ll n){
     }
     return ans%M;
 }
-ll maximum_XOR_subarray(ll arr[],ll n){
+// ll maximum_XOR_subarray(ll arr[],ll n){
     
-}
+// }
 int main(){
     // Euclid tt=Extended_Euclideon(10,7);
     // cout<<tt.x<<" "<<tt.y<<" "<<tt.gcd;
