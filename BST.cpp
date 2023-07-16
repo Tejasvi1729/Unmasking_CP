@@ -201,9 +201,5 @@ int main(){
     // root=b.tree_maker();
     // pair<int,int>p=b.valid_bst_m2(root);
     // cout<<p.first<<" "<<p.second<<" "<<p1;
-    // roott=b.balanced_BST_from_sorted_array(0,8,arr);
-    // cout<<b.valid_bst(root,INT_MIN,INT_MAX);
-    // cout<<b.identical_bst(root,roott);
-    // cout<<(root->data);
 }
 // 8 10 1 -1 -1 6 4 -1 -1 7 -1 -1 3 -1 9 13 -1 -1 -1
